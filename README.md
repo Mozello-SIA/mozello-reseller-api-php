@@ -3,7 +3,7 @@ Mozello Reseller PHP API
 
 PHP API for Mozello resellers. Mozello is online website creator: http://mozello.com
 
-Uses Mozello Reseller API: http://www.mozello.com/developers/reseller-api/
+Implements Mozello Reseller API: http://www.mozello.com/developers/reseller-api/
 
 Sample usage:
 
